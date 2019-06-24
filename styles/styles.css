@@ -1,0 +1,99 @@
+body{
+    
+    background-color: lavender;
+    background-image: url(../images/background-image.jpg);
+    background-size: cover;
+}
+
+
+
+header {
+    
+    width: 700px;
+    border: 1px red solid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+    
+
+main{
+    width: 700px;
+    border: 1px red solid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: forestgreen;
+    font-family: sans-serif;
+    
+}
+
+footer{
+    
+    width: 700px;
+    border: 1px red solid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {font-family: cursive; color: white; font-size: 36px;
+    text-align: center;
+   
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+a {
+    font-size: 12px;
+    font-family: "ariel", sans-serif;
+    
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: yellow;
+}
+
+p {
+    font-family: "serif";
+    font-size: 18 px;
+    color: white;
+}
+
+li {
+    font-family: "serif";
+    font-size: 16 px;
+    color: darkblue;
+}
+
+#intro-image {
+    
+    text-align: center;
+}
+
+#intro-image img {
+    width: 300px;
+    border-radius: 70%;
+}
+
+#me {
+    text-align: left;
+}
+    
+}
