@@ -14,6 +14,7 @@ header {
     margin-left: auto;
     margin-right: auto;
     background-color: #404040;
+    text-align: center;
 }
     
 
@@ -38,7 +39,7 @@ footer{
     text-align: center;
 }
 
-h1 {font-family: cursive; color: white; font-size: 36px;
+h1 {font-family: cursive; color: white; font-size: 48px;
     text-align: center;
    
 }
@@ -81,11 +82,12 @@ p {
 
 li {
     font-family: "serif";
-    font-size: 16 px;
+    font-size: 24px;
     color: darkblue;
     display: inline-block;
     text-align: center;
-    letter-spacing: 2px;
+    padding-right: 5px;
+    padding-left: 8px;
 }
 
 #intro-image {
@@ -99,7 +101,9 @@ li {
 }
 
 #intro-image-me img {
-    text-align: center;
+    position: absolute;
+    right: 275px;
+    top: 13px;
     width: 150px;
 }
   
@@ -109,3 +113,6 @@ li {
     letter-spacing: 20px;
     }
 
+#logo {
+    text-align: left;
+}
