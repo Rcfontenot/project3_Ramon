@@ -85,9 +85,8 @@ li {
     font-size: 24px;
     color: darkblue;
     display: inline-block;
-    text-align: center;
     padding-right: 5px;
-    padding-left: 8px;
+    margin-left: 8px;
 }
 
 #intro-image {
